@@ -1,0 +1,16 @@
+
+.travel_mainDiv {
+    border: 1px solid #000000;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.news_li {
+    margin-top: 13px;
+}
+.news_li h4{
+    border-bottom: 1px solid black;
+    padding: 8px;
+    
+}
